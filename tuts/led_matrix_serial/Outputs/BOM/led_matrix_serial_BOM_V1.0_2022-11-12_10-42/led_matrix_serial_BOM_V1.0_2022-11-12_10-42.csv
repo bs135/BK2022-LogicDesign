@@ -1,0 +1,9 @@
+Designator,Comment,Description,Quantity,PART NO,BRAND,PACKAGE,SUPPLIER,STOCK CODE,TYPE
+
+"D1","1388AURG","1388AURG, Common-Anode, LED Matrix 8x8, RED-GREEN, 32x32mm","1","","","","","",""
+"Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8","Transistor PNP","PNP Bipolar Transistor","8","","","","","",""
+"R1, R2, R3, R4, R5, R6, R7, R8","4.7K","Resistor","8","","","","","",""
+"R10, R11, R14, R15, R18, R19, R22, R23","330","Resistor","8","","","","","",""
+"R12, R13, R16, R17, R20, R21, R24, R25","470","Resistor","8","","","","","",""
+"U1","NUCLEO-F103RB","STM32F103RB, mbed-Enabled Development Nucleo-64 STM32F1 ARM® Cortex®-M3 MCU 32-Bit Embedded Evaluation Board","1","NUCLEO-F103RB","STMicroelectronics","","digi-key","497-14362-ND","EVAL BRD"
+"U2, U3","ULN2803","TRANS 8NPN DARL 50V 0.5A 18SO","2","ULN2803ADWR","TI","18-SOIC","Digi-Key","296-15777-1-ND","SMD"
